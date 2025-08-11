@@ -294,7 +294,7 @@ The web interface will open at `http://localhost:8501`
 ## 📊 Example Workflow
 
 ```
-User Input: "I need to hire a founding engineer and a GenAI intern. Can you help?"
+User Input: "I need to hire a founding engineer. Can you help?"
 
 AI Agents Process:
 ├── Clarification Agent: Extracts roles, asks about budget, timeline, skills
@@ -368,26 +368,3 @@ HR_Agent/
 - **Chat Assistant**: Interactive Q&A about hiring
 - **Analytics**: Usage metrics and performance data
 - **Sessions**: History of all hiring sessions
-
-## 🔒 Security Notes
-
-- API keys are stored in `.env` file (not committed to git)
-- Session data is stored locally in JSON files
-- No sensitive data is sent to external APIs beyond OpenAI/Google
-
-## 🚀 Future Enhancements
-
-- Integration with ATS systems
-- Email automation
-- Calendar scheduling
-- Advanced analytics dashboards
-- Multi-language support
-- Custom agent training
-
-## 📝 License
-
-This project is for demonstration purposes. Please ensure compliance with OpenAI and Google API terms of service.
-
----
-
-**Built with ❤️ using LangGraph, Streamlit, and OpenAI**
