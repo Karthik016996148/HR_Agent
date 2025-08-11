@@ -269,27 +269,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🙏 Acknowledgments
-
-- **OpenAI** for providing the GPT-4o-mini model
-- **LangChain** team for the excellent agent framework
-- **Streamlit** for the beautiful web app framework
-- **FastAPI** for the high-performance backend framework
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful!**
-
-**Made with ❤️ for the business community**
-
-[🐛 Report Bug](https://github.com/yourusername/HR_Agent/issues) • [💡 Request Feature](https://github.com/yourusername/HR_Agent/issues) • [💬 Discussions](https://github.com/yourusername/HR_Agent/discussions)
-
-</div>
-   - Required: `OPENAI_API_KEY`
-   - Optional: `GOOGLE_API_KEY`, `GOOGLE_CSE_ID`
-
 ## 🚀 Running the Application
 
 ### Start the Backend Server
