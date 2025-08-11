@@ -29,6 +29,7 @@ HR Agent is a revolutionary **AI-powered hiring assistant** designed for HR prof
 - 🔄 **Session-based Memory** for persistent conversations
 - 🌐 **Market Research Integration** with Google Search API
 
+Video Link: https://youtu.be/fq8Bx45V8ug
 ---
 
 ## 🎯 Features
