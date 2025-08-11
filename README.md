@@ -118,7 +118,7 @@ graph TD
     
     style A fill:#667eea
     style H fill:#10b981
-    style B,C,D,E,F,G fill:#f093fb
+
 ```
 
 </div>
