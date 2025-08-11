@@ -1,0 +1,1530 @@
+{
+  "5ebb2a8f-8172-49a4-acf8-9275b15ee192": {
+    "id": "5ebb2a8f-8172-49a4-acf8-9275b15ee192",
+    "created_at": "2025-08-10T20:43:04.908089",
+    "status": "active",
+    "messages": [],
+    "hiring_plan": {
+      "session_id": "5ebb2a8f-8172-49a4-acf8-9275b15ee192",
+      "user_request": "ob Descriptions\nFounding Engineer\nAbout the Role:\nWe\u2019re seeking a Founding Engineer to take ownership of our core product architecture, scaling it from MVP to production. You\u2019ll work directly with the founders, shape technical direction, and help grow the engineering team.\n\nResponsibilities:\n\nLead architecture decisions for front-end and back-end.\n\nImplement scalable APIs and cloud infrastructure.\n\nCollaborate with product and design to ship features fast.\n\nMentor junior engineers and set coding standards.\n\nRequirements:\n\n5+ years of software engineering experience.\n\nStrong in JavaScript/TypeScript, React.js, Node.js, PostgreSQL.\n\nFamiliar with AWS/GCP, Docker/Kubernetes, CI/CD pipelines.\n\nStartup or 0\u21921 product experience is a plus.\n\nCompensation: $150k\u2013$190k + 0.5\u20131.25% equity.",
+      "company_context": "Square Shift is a Mid range company.",
+      "clarifications": {
+        "extracted_info": {
+          "roles": [
+            "Software Engineer",
+            "Founding Team Member"
+          ],
+          "skills": [
+            "Technical skills",
+            "Problem solving"
+          ],
+          "timeline": "Not specified",
+          "budget": "Not specified",
+          "company_stage": "Startup",
+          "team_size": "Small team",
+          "work_mode": "Not specified"
+        },
+        "clarifying_questions": [
+          "What is your budget range for these positions?",
+          "What is your ideal timeline for hiring?",
+          "What specific technical skills are most important?",
+          "Do you prefer remote, hybrid, or onsite work?",
+          "What is your company's current team size?"
+        ],
+        "assumptions": [
+          "Assuming startup environment with fast-paced growth",
+          "Assuming technical roles require strong problem-solving skills",
+          "Assuming flexibility in role definitions due to startup nature"
+        ]
+      },
+      "market_research": {
+        "roles_analyzed": [
+          "Software Engineer",
+          "Founding Team Member"
+        ],
+        "market_data": {
+          "Software Engineer": {
+            "salary_ranges": {
+              "entry": "$80k-120k",
+              "mid": "$120k-180k",
+              "senior": "$180k-250k"
+            },
+            "key_skills": [
+              "Python/JavaScript",
+              "System Design",
+              "Problem Solving"
+            ],
+            "market_demand": "Very High",
+            "competition_level": "High",
+            "hiring_tips": [
+              "Focus on coding skills",
+              "Emphasize growth opportunities",
+              "Competitive compensation"
+            ]
+          },
+          "Founding Team Member": {
+            "salary_ranges": {
+              "entry": "$60k-90k",
+              "mid": "$90k-130k",
+              "senior": "$130k-180k"
+            },
+            "key_skills": [
+              "Domain expertise",
+              "Communication",
+              "Problem solving"
+            ],
+            "market_demand": "Moderate",
+            "competition_level": "Moderate",
+            "hiring_tips": [
+              "Clear role definition",
+              "Growth path",
+              "Competitive benefits"
+            ]
+          }
+        },
+        "summary": "### Market Research Findings Summary\n\n#### Software Engineer\n- **Salary Ranges**:\n  - Entry Level: $80k - $120k\n  - Mid Level: $120k - $180k\n  - Senior Level: $180k - $250k\n- **Key Skills**: \n  - Proficiency in Python/JavaScript\n  - System Design\n  - Strong Problem Solving abilities\n- **Market Demand**: Very High\n- **Competition Level**: High\n- **Hiring Tips**:\n  - Prioritize candidates with strong coding skills.\n  - Highlight opportunities for professional growth.\n  - Offer competitive compensation packages.\n\n#### Founding Team Member\n- **Salary Ranges**:\n  - Entry Level: $60k - $90k\n  - Mid Level: $90k - $130k\n  - Senior Level: $130k - $180k\n- **Key Skills**:\n  - Domain expertise relevant to the business\n  - Excellent Communication skills\n  - Strong Problem Solving capabilities\n- **Market Demand**: Moderate\n- **Competition Level**: Moderate\n- **Hiring Tips**:\n  - Clearly define the roles and responsibilities.\n  - Outline potential growth paths within the company.\n  - Provide competitive benefits to attract talent.\n\n### Key Insights and Recommendations for Hiring Strategy\n\n1. **Focus on Competitive Compensation**: Given the high competition for Software Engineers, ensure that salary offerings are competitive within the market ranges. For Founding Team Members, while the competition is moderate, offering attractive benefits can enhance appeal.\n\n2. **Emphasize Growth Opportunities**: Both roles benefit from highlighting career advancement opportunities. This is particularly crucial for Software Engineers, where the demand is very high.\n\n3. **Skill Alignment**: Tailor job descriptions to emphasize the key skills required for each role. For Software Engineers, prioritize technical skills, while for Founding Team Members, focus on domain expertise and communication skills.\n\n4. **Role Clarity**: For Founding Team Members, ensure that the roles are well-defined to attract candidates who are not only skilled but also aligned with the company's vision and goals.\n\n5. **Market Positioning**: Leverage the very high demand for Software Engineers by promoting the company\u2019s culture, projects, and technologies to attract top talent. For Founding Team Members, emphasize the unique opportunity to shape the company from the ground up.\n\nBy implementing these strategies, the hiring process can be optimized to attract and retain top talent in both roles, ensuring the team is well-equipped to meet the company's needs."
+      },
+      "job_descriptions": {
+        "job_descriptions": {
+          "Software Engineer": {
+            "title": "Software Engineer - Join Our Growing Startup",
+            "summary": "We're looking for a talented Software Engineer to join our innovative startup team and help build the future.",
+            "responsibilities": [
+              "Lead software engineer initiatives and projects",
+              "Collaborate with cross-functional teams",
+              "Drive innovation and technical excellence",
+              "Mentor junior team members",
+              "Contribute to product strategy and roadmap"
+            ],
+            "required_qualifications": [
+              "3+ years of experience in software engineer role",
+              "Strong technical and problem-solving skills",
+              "Excellent communication and teamwork abilities",
+              "Startup mindset and adaptability",
+              "Bachelor's degree or equivalent experience"
+            ],
+            "preferred_qualifications": [
+              "Experience in fast-paced startup environment",
+              "Leadership and mentoring experience",
+              "Open source contributions",
+              "Advanced degree in relevant field"
+            ],
+            "what_we_offer": [
+              "Competitive salary and equity package",
+              "Flexible work arrangements",
+              "Professional development opportunities",
+              "Health and wellness benefits",
+              "Collaborative and innovative culture"
+            ],
+            "application_process": "Send your resume and cover letter explaining why you're excited about this opportunity."
+          },
+          "Founding Team Member": {
+            "title": "Founding Team Member - Join Our Growing Startup",
+            "summary": "We're looking for a talented Founding Team Member to join our innovative startup team and help build the future.",
+            "responsibilities": [
+              "Lead founding team member initiatives and projects",
+              "Collaborate with cross-functional teams",
+              "Drive innovation and technical excellence",
+              "Mentor junior team members",
+              "Contribute to product strategy and roadmap"
+            ],
+            "required_qualifications": [
+              "3+ years of experience in founding team member role",
+              "Strong technical and problem-solving skills",
+              "Excellent communication and teamwork abilities",
+              "Startup mindset and adaptability",
+              "Bachelor's degree or equivalent experience"
+            ],
+            "preferred_qualifications": [
+              "Experience in fast-paced startup environment",
+              "Leadership and mentoring experience",
+              "Open source contributions",
+              "Advanced degree in relevant field"
+            ],
+            "what_we_offer": [
+              "Competitive salary and equity package",
+              "Flexible work arrangements",
+              "Professional development opportunities",
+              "Health and wellness benefits",
+              "Collaborative and innovative culture"
+            ],
+            "application_process": "Send your resume and cover letter explaining why you're excited about this opportunity."
+          }
+        },
+        "posting_tips": "r a passionate Founding Team Member to help shape our startup's vision and drive our mission forward.\",\n    \"responsibilities\": [\n      \"Collaborate with the founding team to define and execute the startup's vision\",\n      \"Take ownership of key projects and initiatives\",\n      \"Build and maintain relationships with stakeholders and partners\",\n      \"Drive product development from concept to launch\",\n      \"Help create a strong company culture and values\"\n    ],\n    \"required_qualifications\": [\n      \"Entrepreneurial spirit with a track record of taking initiative\",\n      \"Strong leadership and communication skills\",\n      \"Ability to thrive in a fast-paced, dynamic environment\",\n      \"Experience in a relevant industry or domain\",\n      \"Bachelor's degree or equivalent experience\"\n    ],\n    \"preferred_qualifications\": [\n      \"Previous startup experience, especially in a founding role\",\n      \"Fundraising experience and network\",\n      \"Strong understanding of market trends and customer needs\",\n      \"Passion for innovation and problem-solving\"\n    ],\n    \"what_we_offer\": [\n      \"Equity stake in the company\",\n      \"Flexible working hours and remote work options\",\n      \"Opportunity to shape the company's future\",\n      \"Access to a network of advisors and mentors\",\n      \"A vibrant, inclusive work culture\"\n    ],\n    \"application_process\": \"Send your resume and a brief statement on why you want to be part of our founding team.\"\n  }\n}\n\n### Actionable Tips for Posting and Promoting Job Descriptions\n\n1. **Leverage Startup Job Boards**: Post your job descriptions on platforms specifically tailored for startups, such as AngelList, StartupJobs, and We Work Remotely. These platforms attract candidates who are already interested in the startup ecosystem.\n\n2. **Utilize Social Media**: Share your job postings on social media channels like LinkedIn, Twitter, and Facebook. Use relevant hashtags (#StartupJobs, #TechJobs, etc.) to increase visibility. Engage with startup communities on these platforms to reach potential candidates.\n\n3. **Engage with Startup Communities**: Participate in online forums and communities such as Indie Hackers, Product Hunt, or relevant subreddits (like r/startups). Share your job postings in these communities, emphasizing your startup's mission and culture.\n\n4. **Highlight Company Culture**: In your job descriptions and promotional materials, emphasize your startup's culture, values, and mission. Candidates are often drawn to startups that align with their personal beliefs and aspirations.\n\n5. **Create a Compelling Visual**: Use graphics or videos to showcase your startup's work environment, team, and projects. Visual content can be more engaging and help candidates feel a connection to your startup.\n\n6. **Network and Referrals**: Encourage your current team members to share the job postings within their networks. Offer referral bonuses to incentivize them to bring in qualified candidates. Networking events and local meetups can also be great places to find talent.\n\n7. **Email Marketing**: If you have an existing mailing list or newsletter, use it to announce the job openings. Craft a compelling message that highlights why working at your startup is an exciting opportunity.\n\n8. **Engage with Universities**: Reach out to local universities and colleges, especially those with strong tech programs. Consider offering internship opportunities or participating in career fairs to connect with emerging talent.\n\n9. **Tailor Job Descriptions for SEO**: Use relevant keywords in your job descriptions to improve visibility in search engines. Think about what potential candidates might search for when looking for startup roles.\n\n10. **Offer Unique Perks**: Highlight unique benefits and perks that come with working at your startup, such as flexible hours, remote work options, or opportunities for professional development. This can make your job postings more attractive.\n\n11. **Utilize Video Job Descriptions**: Consider creating a short video that explains the role, the team, and the company culture. This can be shared on your website and social media to provide a more personal touch.\n\n12. **Follow Up and Engage**: Once candidates apply, maintain engagement through timely follow-ups and personalized communication. This helps in building a positive candidate experience, which can enhance your startup's reputation.\n\nBy implementing these strategies, you can effectively attract the best candidates for your startup positions, ensuring that you build a strong and capable team to drive your vision forward."
+      },
+      "interview_process": {
+        "interview_processes": {
+          "Software Engineer": {
+            "stages": [
+              {
+                "name": "Initial Screening",
+                "duration": "30 minutes",
+                "format": "Phone/Video call",
+                "focus": "Basic qualifications and cultural fit"
+              },
+              {
+                "name": "Technical Assessment",
+                "duration": "60-90 minutes",
+                "format": "Technical interview/coding challenge",
+                "focus": "Technical skills and problem-solving"
+              },
+              {
+                "name": "Team Interview",
+                "duration": "45 minutes",
+                "format": "Video call with team members",
+                "focus": "Collaboration and communication skills"
+              },
+              {
+                "name": "Final Interview",
+                "duration": "30 minutes",
+                "format": "Interview with leadership",
+                "focus": "Vision alignment and final assessment"
+              }
+            ],
+            "timeline": "2-3 weeks from application to decision",
+            "evaluation_criteria": [
+              "Technical competency",
+              "Cultural fit",
+              "Communication skills",
+              "Growth potential",
+              "Startup mindset"
+            ],
+            "sample_questions": {
+              "screening": [
+                "Tell us about your experience with [relevant technology]",
+                "Why are you interested in joining a startup?",
+                "What are your career goals?"
+              ],
+              "technical": [
+                "Walk us through your approach to [technical problem]",
+                "How would you handle [scenario-based question]?",
+                "Explain a challenging project you worked on"
+              ],
+              "cultural": [
+                "How do you handle ambiguity and changing priorities?",
+                "Describe a time you had to learn something quickly",
+                "What motivates you in your work?"
+              ]
+            },
+            "decision_process": "Collaborative decision with input from all interviewers",
+            "logistics": "Coordinated through HR with clear communication to candidates"
+          },
+          "Founding Team Member": {
+            "stages": [
+              {
+                "name": "Initial Screening",
+                "duration": "30 minutes",
+                "format": "Phone/Video call",
+                "focus": "Basic qualifications and cultural fit"
+              },
+              {
+                "name": "Technical Assessment",
+                "duration": "60-90 minutes",
+                "format": "Technical interview/coding challenge",
+                "focus": "Technical skills and problem-solving"
+              },
+              {
+                "name": "Team Interview",
+                "duration": "45 minutes",
+                "format": "Video call with team members",
+                "focus": "Collaboration and communication skills"
+              },
+              {
+                "name": "Final Interview",
+                "duration": "30 minutes",
+                "format": "Interview with leadership",
+                "focus": "Vision alignment and final assessment"
+              }
+            ],
+            "timeline": "2-3 weeks from application to decision",
+            "evaluation_criteria": [
+              "Technical competency",
+              "Cultural fit",
+              "Communication skills",
+              "Growth potential",
+              "Startup mindset"
+            ],
+            "sample_questions": {
+              "screening": [
+                "Tell us about your experience with [relevant technology]",
+                "Why are you interested in joining a startup?",
+                "What are your career goals?"
+              ],
+              "technical": [
+                "Walk us through your approach to [technical problem]",
+                "How would you handle [scenario-based question]?",
+                "Explain a challenging project you worked on"
+              ],
+              "cultural": [
+                "How do you handle ambiguity and changing priorities?",
+                "Describe a time you had to learn something quickly",
+                "What motivates you in your work?"
+              ]
+            },
+            "decision_process": "Collaborative decision with input from all interviewers",
+            "logistics": "Coordinated through HR with clear communication to candidates"
+          }
+        },
+        "general_guidelines": "### Interview Guidelines for Startup Hiring Teams\n\nHiring the right talent is crucial for the success of a startup. To ensure a fair, efficient, and effective hiring process, consider the following guidelines that focus on legal compliance, bias reduction, and candidate experience.\n\n---\n\n#### 1. **Legal Compliance**\n\n- **Understand Employment Laws**: Familiarize yourself with local, state, and federal employment laws, including anti-discrimination laws (e.g., Title VII of the Civil Rights Act, ADA, ADEA) to ensure compliance throughout the hiring process.\n  \n- **Job Descriptions**: Create clear and accurate job descriptions that focus on the skills and qualifications necessary for the role. Avoid language that could be interpreted as discriminatory.\n\n- **Application Forms**: Design application forms that collect only necessary information. Avoid questions that could lead to discrimination (e.g., age, marital status, religion).\n\n- **Interview Questions**: Develop a standardized set of interview questions that are relevant to the job. Avoid personal questions that do not pertain to job performance.\n\n- **Record Keeping**: Maintain records of the hiring process, including interview notes and candidate evaluations, to protect against potential discrimination claims.\n\n- **Offer Letters**: Ensure that offer letters clearly outline job responsibilities, compensation, benefits, and any other relevant terms of employment.\n\n---\n\n#### 2. **Bias Reduction**\n\n- **Diverse Hiring Panel**: Assemble a diverse interview panel to minimize unconscious bias. Include individuals from different backgrounds, experiences, and perspectives.\n\n- **Structured Interviews**: Use structured interviews where each candidate is asked the same set of predetermined questions. This helps to ensure consistency and fairness in the evaluation process.\n\n- **Scorecards and Rubrics**: Utilize scorecards or rubrics to evaluate candidates based on specific criteria related to the job. This can help reduce subjective bias in assessments.\n\n- **Blind Recruitment**: Consider implementing blind recruitment practices, where identifying information (e.g., name, gender) is removed from resumes during the initial screening process.\n\n- **Training**: Provide bias training for all team members involved in the hiring process to raise awareness of unconscious biases and how they can affect decision-making.\n\n---\n\n#### 3. **Candidate Experience**\n\n- **Clear Communication**: Communicate clearly and promptly with candidates throughout the hiring process. Provide updates on their application status and next steps.\n\n- **Respectful Scheduling**: Offer flexible interview times and be respectful of candidates\u2019 schedules. Confirm appointments and send reminders.\n\n- **Provide Feedback**: Offer constructive feedback to candidates after interviews, regardless of the outcome. This shows respect for their time and effort.\n\n- **Engaging Interviews**: Make interviews engaging by allowing candidates to ask questions and encouraging a two-way conversation. This can help candidates feel valued and respected.\n\n- **Onboarding Process**: Once a candidate is hired, ensure a smooth onboarding process that helps them integrate into the company culture and understand their role.\n\n---\n\n#### 4. **Post-Interview Evaluation**\n\n- **Debrief Sessions**: Hold debrief sessions with the hiring team after interviews to discuss candidates\u2019 strengths and weaknesses based on the established criteria.\n\n- **Consensus Decision-Making**: Strive for consensus in hiring decisions. Ensure that all team members\u2019 perspectives are considered before making a final decision.\n\n- **Continuous Improvement**: After the hiring process, gather feedback from candidates and the hiring team to identify areas for improvement. Use this feedback to refine future hiring practices.\n\n---\n\n### Conclusion\n\nBy adhering to these guidelines, startup hiring teams can create a fair, inclusive, and positive hiring experience for all candidates. A thoughtful approach to hiring not only helps in building a diverse workforce but also contributes to the overall success and culture of the startup."
+      },
+      "compensation_packages": {
+        "compensation_packages": {
+          "Software Engineer": {
+            "base_salary": {
+              "range": "$120k-180k",
+              "justification": "Market competitive based on role and experience"
+            },
+            "equity_percentage": {
+              "range": "0.1% - 1.0%",
+              "vesting": "4 years with 1-year cliff",
+              "justification": "Startup equity to align with company growth"
+            },
+            "benefits": [
+              "Health insurance (medical, dental, vision)",
+              "Retirement plan (401k with matching)",
+              "Paid time off (vacation, sick, personal)",
+              "Professional development budget",
+              "Flexible work arrangements"
+            ],
+            "bonuses": {
+              "performance_bonus": "Up to 15% of base salary",
+              "signing_bonus": "Negotiable based on candidate",
+              "referral_bonus": "Available for successful hires"
+            },
+            "perks": [
+              "Flexible working hours",
+              "Remote work options",
+              "Modern equipment and tools",
+              "Team building activities",
+              "Learning and conference budget"
+            ],
+            "total_value_estimate": "Competitive package with strong upside potential"
+          },
+          "Founding Team Member": {
+            "base_salary": {
+              "range": "$90k-130k",
+              "justification": "Market competitive based on role and experience"
+            },
+            "equity_percentage": {
+              "range": "0.1% - 1.0%",
+              "vesting": "4 years with 1-year cliff",
+              "justification": "Startup equity to align with company growth"
+            },
+            "benefits": [
+              "Health insurance (medical, dental, vision)",
+              "Retirement plan (401k with matching)",
+              "Paid time off (vacation, sick, personal)",
+              "Professional development budget",
+              "Flexible work arrangements"
+            ],
+            "bonuses": {
+              "performance_bonus": "Up to 15% of base salary",
+              "signing_bonus": "Negotiable based on candidate",
+              "referral_bonus": "Available for successful hires"
+            },
+            "perks": [
+              "Flexible working hours",
+              "Remote work options",
+              "Modern equipment and tools",
+              "Team building activities",
+              "Learning and conference budget"
+            ],
+            "total_value_estimate": "Competitive package with strong upside potential"
+          }
+        },
+        "budget_analysis": {
+          "total_annual_cost": "Varies by package selection",
+          "budget_recommendations": [
+            "Prioritize equity over high base salaries",
+            "Focus on growth and learning opportunities",
+            "Consider performance-based compensation"
+          ],
+          "cost_optimization": [
+            "Negotiate based on candidate priorities",
+            "Offer flexible benefits packages",
+            "Use equity to offset lower base salaries"
+          ]
+        },
+        "negotiation_guidelines": "Negotiating compensation with candidates is a critical aspect of the hiring process, especially for startups that may have limited resources but still want to attract top talent. Here are practical guidelines for startup hiring managers to follow during compensation negotiations:\n\n### 1. **Research Market Rates**\n   - **Benchmark Salaries**: Use salary surveys, industry reports, and online tools (e.g., Glassdoor, Payscale, LinkedIn Salary) to understand the market rate for the position you are hiring for.\n   - **Consider Location**: Adjust compensation based on the cost of living in your area, especially if you are hiring remotely.\n\n### 2. **Understand Your Budget**\n   - **Set a Compensation Range**: Determine a salary range that fits within your budget and aligns with your startup\u2019s financial health.\n   - **Include Total Compensation**: Factor in benefits, equity, bonuses, and other perks when calculating the total compensation package.\n\n### 3. **Know Your Value Proposition**\n   - **Highlight Non-Monetary Benefits**: Emphasize the unique aspects of working at a startup, such as flexibility, growth opportunities, company culture, and the chance to make a significant impact.\n   - **Equity Options**: Be prepared to discuss equity as part of the compensation package, explaining its potential value and how it aligns with the company\u2019s growth.\n\n### 4. **Be Transparent**\n   - **Open Communication**: Be upfront about your budget constraints and the rationale behind your compensation offer.\n   - **Discuss Growth Potential**: Share how compensation can evolve as the company grows and the employee\u2019s role expands.\n\n### 5. **Listen Actively**\n   - **Understand Candidate Expectations**: Ask candidates about their salary expectations and listen carefully to their responses.\n   - **Be Open to Feedback**: If a candidate expresses concerns about the offer, be willing to discuss and explore potential adjustments.\n\n### 6. **Be Flexible**\n   - **Consider Creative Solutions**: If you can\u2019t meet a candidate\u2019s salary expectations, explore alternative compensation options, such as additional vacation days, remote work flexibility, or professional development opportunities.\n   - **Tailor Offers**: Customize the compensation package based on the candidate\u2019s unique needs and priorities.\n\n### 7. **Prepare for Counteroffers**\n   - **Anticipate Negotiation**: Be ready for candidates to counter your initial offer and have a clear idea of what you can and cannot adjust.\n   - **Stay Firm but Fair**: While it\u2019s important to be flexible, also know your limits and stand firm on what you can offer.\n\n### 8. **Document Everything**\n   - **Keep Records**: Document all discussions regarding compensation to ensure clarity and avoid misunderstandings later in the hiring process.\n   - **Formalize Offers**: Once negotiations are complete, provide a formal offer letter that outlines the agreed-upon compensation and benefits.\n\n### 9. **Follow Up**\n   - **Check In Post-Offer**: After extending an offer, follow up with the candidate to address any lingering questions or concerns they may have about the compensation package.\n   - **Maintain Engagement**: Keep the candidate engaged throughout the waiting period to ensure they remain excited about the opportunity.\n\n### 10. **Evaluate and Reflect**\n   - **Post-Hire Review**: After the hiring process, review the negotiation outcomes and gather feedback to improve future negotiations.\n   - **Adjust Strategies**: Continuously refine your approach based on what worked well and what didn\u2019t during the negotiation process.\n\nBy following these guidelines, startup hiring managers can effectively negotiate compensation with candidates, ensuring both parties feel valued and satisfied with the final agreement."
+      },
+      "hiring_checklist": {
+        "role_checklists": {
+          "Software Engineer": {
+            "pre_posting": {
+              "tasks": [
+                {
+                  "task": "Finalize job description",
+                  "deadline": "Day 1",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up interview panel",
+                  "deadline": "Day 2",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare interview materials",
+                  "deadline": "Day 3",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "job_posting": {
+              "tasks": [
+                {
+                  "task": "Post on job boards",
+                  "deadline": "Day 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Share on social media",
+                  "deadline": "Day 4",
+                  "responsible": "Marketing"
+                },
+                {
+                  "task": "Reach out to network",
+                  "deadline": "Day 5",
+                  "responsible": "Team"
+                }
+              ]
+            },
+            "screening": {
+              "tasks": [
+                {
+                  "task": "Review applications",
+                  "deadline": "Ongoing",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct phone screens",
+                  "deadline": "Week 2-3",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Technical assessments",
+                  "deadline": "Week 2-3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "interviews": {
+              "tasks": [
+                {
+                  "task": "Schedule interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "Interview Panel"
+                },
+                {
+                  "task": "Collect feedback",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "decision_offer": {
+              "tasks": [
+                {
+                  "task": "Make hiring decision",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare offer letter",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Extend offer",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            },
+            "onboarding": {
+              "tasks": [
+                {
+                  "task": "Prepare onboarding materials",
+                  "deadline": "Before start date",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up workspace",
+                  "deadline": "Before start date",
+                  "responsible": "IT"
+                },
+                {
+                  "task": "Schedule first week meetings",
+                  "deadline": "Before start date",
+                  "responsible": "Manager"
+                }
+              ]
+            }
+          },
+          "Founding Team Member": {
+            "pre_posting": {
+              "tasks": [
+                {
+                  "task": "Finalize job description",
+                  "deadline": "Day 1",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up interview panel",
+                  "deadline": "Day 2",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare interview materials",
+                  "deadline": "Day 3",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "job_posting": {
+              "tasks": [
+                {
+                  "task": "Post on job boards",
+                  "deadline": "Day 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Share on social media",
+                  "deadline": "Day 4",
+                  "responsible": "Marketing"
+                },
+                {
+                  "task": "Reach out to network",
+                  "deadline": "Day 5",
+                  "responsible": "Team"
+                }
+              ]
+            },
+            "screening": {
+              "tasks": [
+                {
+                  "task": "Review applications",
+                  "deadline": "Ongoing",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct phone screens",
+                  "deadline": "Week 2-3",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Technical assessments",
+                  "deadline": "Week 2-3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "interviews": {
+              "tasks": [
+                {
+                  "task": "Schedule interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "Interview Panel"
+                },
+                {
+                  "task": "Collect feedback",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "decision_offer": {
+              "tasks": [
+                {
+                  "task": "Make hiring decision",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare offer letter",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Extend offer",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            },
+            "onboarding": {
+              "tasks": [
+                {
+                  "task": "Prepare onboarding materials",
+                  "deadline": "Before start date",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up workspace",
+                  "deadline": "Before start date",
+                  "responsible": "IT"
+                },
+                {
+                  "task": "Schedule first week meetings",
+                  "deadline": "Before start date",
+                  "responsible": "Manager"
+                }
+              ]
+            }
+          }
+        },
+        "master_checklist": {
+          "setup_phase": [
+            "Define hiring goals and priorities",
+            "Allocate budget and resources",
+            "Set up hiring infrastructure",
+            "Train interview team"
+          ],
+          "execution_phase": [
+            "Launch job postings simultaneously",
+            "Coordinate screening processes",
+            "Manage interview schedules",
+            "Track candidate pipeline"
+          ],
+          "coordination_tasks": [
+            "Weekly hiring team meetings",
+            "Candidate experience monitoring",
+            "Budget tracking and reporting",
+            "Process optimization"
+          ],
+          "milestones": [
+            "Week 1: All job postings live",
+            "Week 2: First round of interviews",
+            "Week 4: Initial offers extended",
+            "Week 6: New hires onboarded"
+          ]
+        },
+        "timeline_overview": "          \"deadline\": \"Day 6\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Conduct phone screenings\",\n          \"deadline\": \"Day 7-8\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"interviewing\": {\n      \"tasks\": [\n        {\n          \"task\": \"Schedule in-person interviews\",\n          \"deadline\": \"Day 9\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Conduct technical interviews\",\n          \"deadline\": \"Day 10-11\",\n          \"responsible\": \"Interview Panel\"\n        },\n        {\n          \"task\": \"Conduct final interviews\",\n          \"deadline\": \"Day 12\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"offer\": {\n      \"tasks\": [\n        {\n          \"task\": \"Prepare offer letter\",\n          \"deadline\": \"Day 13\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Send offer to candidate\",\n          \"deadline\": \"Day 14\",\n          \"responsible\": \"Hiring Manager\"\n        },\n        {\n          \"task\": \"Negotiate offer if necessary\",\n          \"deadline\": \"Day 15\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"onboarding\": {\n      \"tasks\": [\n        {\n          \"task\": \"Prepare onboarding materials\",\n          \"deadline\": \"Day 16\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Schedule orientation\",\n          \"deadline\": \"Day 17\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Set up IT equipment\",\n          \"deadline\": \"Day 18\",\n          \"responsible\": \"IT\"\n        }\n      ]\n    }\n  },\n  \"Product Manager\": {\n    \"pre_posting\": {\n      \"tasks\": [\n        {\n          \"task\": \"Finalize job description\",\n          \"deadline\": \"Day 1\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Set up interview panel\",\n          \"deadline\": \"Day 2\",\n          \"responsible\": \"Hiring Manager\"\n        },\n        {\n          \"task\": \"Prepare interview materials\",\n          \"deadline\": \"Day 3\",\n          \"responsible\": \"HR\"\n        }\n      ]\n    },\n    \"job_posting\": {\n      \"tasks\": [\n        {\n          \"task\": \"Post on job boards\",\n          \"deadline\": \"Day 4\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Share on social media\",\n          \"deadline\": \"Day 4\",\n          \"responsible\": \"Marketing\"\n        },\n        {\n          \"task\": \"Reach out to network\",\n          \"deadline\": \"Day 5\",\n          \"responsible\": \"Team\"\n        }\n      ]\n    },\n    \"screening\": {\n      \"tasks\": [\n        {\n          \"task\": \"Review applications\",\n          \"deadline\": \"Day 6\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Conduct phone screenings\",\n          \"deadline\": \"Day 7-8\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"interviewing\": {\n      \"tasks\": [\n        {\n          \"task\": \"Schedule in-person interviews\",\n          \"deadline\": \"Day 9\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Conduct product case interviews\",\n          \"deadline\": \"Day 10-11\",\n          \"responsible\": \"Interview Panel\"\n        },\n        {\n          \"task\": \"Conduct final interviews\",\n          \"deadline\": \"Day 12\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"offer\": {\n      \"tasks\": [\n        {\n          \"task\": \"Prepare offer letter\",\n          \"deadline\": \"Day 13\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Send offer to candidate\",\n          \"deadline\": \"Day 14\",\n          \"responsible\": \"Hiring Manager\"\n        },\n        {\n          \"task\": \"Negotiate offer if necessary\",\n          \"deadline\": \"Day 15\",\n          \"responsible\": \"Hiring Manager\"\n        }\n      ]\n    },\n    \"onboarding\": {\n      \"tasks\": [\n        {\n          \"task\": \"Prepare onboarding materials\",\n          \"deadline\": \"Day 16\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Schedule orientation\",\n          \"deadline\": \"Day 17\",\n          \"responsible\": \"HR\"\n        },\n        {\n          \"task\": \"Set up IT equipment\",\n          \"deadline\": \"Day 18\",\n          \"responsible\": \"IT\"\n        }\n      ]\n    }\n  }\n}\n\n### Timeline Overview for Hiring Process Flow\n\n#### Day 1-3: Pre-Posting Phase\n- **Day 1**: Finalize job description (HR)\n- **Day 2**: Set up interview panel (Hiring Manager)\n- **Day 3**: Prepare interview materials (HR)\n\n#### Day 4-5: Job Posting Phase\n- **Day 4**: \n  - Post on job boards (HR)\n  - Share on social media (Marketing)\n- **Day 5**: Reach out to network (Team)\n\n#### Day 6-8: Screening Phase\n- **Day 6**: Review applications (HR)\n- **Day 7-8**: Conduct phone screenings (Hiring Manager)\n\n#### Day 9-12: Interviewing Phase\n- **Day 9**: Schedule in-person interviews (HR)\n- **Day 10-11**: \n  - Conduct technical/product case interviews (Interview Panel)\n- **Day 12**: Conduct final interviews (Hiring Manager)\n\n#### Day 13-15: Offer Phase\n- **Day 13**: Prepare offer letter (HR)\n- **Day 14**: Send offer to candidate (Hiring Manager)\n- **Day 15**: Negotiate offer if necessary (Hiring Manager)\n\n#### Day 16-18: Onboarding Phase\n- **Day 16**: Prepare onboarding materials (HR)\n- **Day 17**: Schedule orientation (HR)\n- **Day 18**: Set up IT equipment (IT)\n\n### Key Milestones and Dependencies\n- **Job Description Finalization**: Must be completed before posting.\n- **Interview Panel Setup**: Required before scheduling interviews.\n- **Application Review**: Dependent on job posting completion.\n- **Interview Scheduling**: Can only occur after phone screenings.\n- **Offer Preparation**: Dependent on final interview completion.\n- **Onboarding Preparation**: Must be completed before the new hire's start date. \n\nThis timeline provides a structured overview of the hiring process for both Software Engineer and Product Manager roles, ensuring all tasks are completed in a timely manner while highlighting dependencies between phases."
+      },
+      "agents_used": [
+        "clarification",
+        "market_research",
+        "job_description",
+        "interview_process",
+        "compensation",
+        "checklist"
+      ],
+      "created_at": 9011.343,
+      "status": "completed"
+    },
+    "updated_at": "2025-08-10T20:49:18.714161"
+  },
+  "17ec924b-ea02-4be4-b082-b32b638bc8b0": {
+    "id": "17ec924b-ea02-4be4-b082-b32b638bc8b0",
+    "created_at": "2025-08-10T20:48:18.138876",
+    "status": "active",
+    "messages": [],
+    "hiring_plan": null
+  },
+  "d8d78bfb-188b-471b-b5a5-b79104f6905a": {
+    "id": "d8d78bfb-188b-471b-b5a5-b79104f6905a",
+    "created_at": "2025-08-10T20:54:26.348828",
+    "status": "active",
+    "messages": [],
+    "hiring_plan": {
+      "session_id": "d8d78bfb-188b-471b-b5a5-b79104f6905a",
+      "user_request": "Roles needed: Frontend Developer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks). Key skills required: Java Script. Additional details: I need a person who can mentor me and should be hardworking",
+      "company_context": "Company stage: Pre-seed. Team size: 1-5 people. Budget range: <$50k. Work arrangement: Remote. Additional context: Friendly culture",
+      "status": "fallback",
+      "error": "Connection error.",
+      "clarifications": {
+        "extracted_info": {
+          "roles": [
+            "Software Engineer",
+            "Intern"
+          ],
+          "skills": [
+            "Programming",
+            "Problem solving"
+          ],
+          "timeline": "Standard hiring process",
+          "budget": "Competitive",
+          "company_stage": "Startup",
+          "team_size": "Small team"
+        },
+        "clarifying_questions": [
+          "What is your specific budget range?",
+          "What technologies should candidates know?",
+          "What is your ideal timeline?",
+          "Remote, hybrid, or onsite work?"
+        ]
+      },
+      "job_descriptions": {
+        "job_descriptions": {
+          "Software Engineer": {
+            "title": "Software Engineer - Join Our Growing Team",
+            "summary": "We're looking for a talented software engineer to help build innovative solutions.",
+            "responsibilities": [
+              "Develop software solutions",
+              "Collaborate with team",
+              "Write clean code"
+            ],
+            "required_qualifications": [
+              "Programming experience",
+              "Problem-solving skills",
+              "Team player"
+            ],
+            "what_we_offer": [
+              "Competitive salary",
+              "Growth opportunities",
+              "Great team"
+            ]
+          }
+        }
+      },
+      "interview_process": {
+        "interview_processes": {
+          "Software Engineer": {
+            "stages": [
+              {
+                "name": "Phone Screen",
+                "duration": "30 min",
+                "focus": "Basic fit"
+              },
+              {
+                "name": "Technical Interview",
+                "duration": "60 min",
+                "focus": "Coding skills"
+              },
+              {
+                "name": "Final Interview",
+                "duration": "30 min",
+                "focus": "Culture fit"
+              }
+            ],
+            "timeline": "2-3 weeks"
+          }
+        }
+      },
+      "compensation_packages": {
+        "compensation_packages": {
+          "Software Engineer": {
+            "base_salary": {
+              "range": "$80k-120k"
+            },
+            "equity_percentage": {
+              "range": "0.1%-0.5%"
+            },
+            "benefits": [
+              "Health insurance",
+              "PTO",
+              "Professional development"
+            ]
+          }
+        }
+      },
+      "hiring_checklist": {
+        "role_checklists": {
+          "Software Engineer": {
+            "pre_posting": {
+              "tasks": [
+                {
+                  "task": "Finalize job description",
+                  "deadline": "Day 1"
+                }
+              ]
+            },
+            "job_posting": {
+              "tasks": [
+                {
+                  "task": "Post on job boards",
+                  "deadline": "Day 2"
+                }
+              ]
+            },
+            "screening": {
+              "tasks": [
+                {
+                  "task": "Review applications",
+                  "deadline": "Week 1"
+                }
+              ]
+            }
+          }
+        }
+      },
+      "agents_used": [
+        "fallback"
+      ],
+      "created_at": 9788.406
+    },
+    "updated_at": "2025-08-10T21:02:15.794867"
+  },
+  "03fd81fd-ca75-4889-9e68-bad4bf352f1d": {
+    "id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+    "created_at": "2025-08-10T22:32:08.614816",
+    "status": "active",
+    "messages": [
+      {
+        "timestamp": "2025-08-10T22:33:47.276256",
+        "user_message": "hello",
+        "ai_response": "Hello! How can I assist you today with your hiring process?"
+      },
+      {
+        "timestamp": "2025-08-10T22:33:59.046784",
+        "user_message": "i have some doubts",
+        "ai_response": "Of course! What doubts do you have? I'm here to help clarify anything related to your hiring process."
+      }
+    ],
+    "hiring_plan": {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "user_request": "Roles needed: Senior Software Engineer, Lead Engineer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks)",
+      "company_context": "Company stage: Pre-seed. Team size: 1-5 people. Budget range: <$50k. Work arrangement: Remote",
+      "status": "completed",
+      "agents_used": [
+        "clarification",
+        "market_research",
+        "job_description",
+        "interview_process",
+        "compensation",
+        "checklist"
+      ],
+      "created_at": "2025-08-10T22:32:21.416798",
+      "clarifications": {
+        "extracted_info": {
+          "roles": [
+            "Software Engineer"
+          ],
+          "skills": [
+            "Problem solving",
+            "Communication",
+            "Teamwork"
+          ],
+          "timeline": "ASAP",
+          "budget": "Competitive",
+          "company_stage": "Seed stage",
+          "team_size": "Growing team",
+          "work_mode": "Flexible"
+        },
+        "clarifying_questions": [
+          "What is your specific budget range for these positions?",
+          "What are the most important technical skills for your team?",
+          "Do you prefer remote, hybrid, or onsite work arrangements?",
+          "What is your ideal timeline for completing these hires?",
+          "Are there any specific company culture aspects candidates should know?"
+        ],
+        "assumptions": [
+          "Assuming startup environment with growth opportunities",
+          "Assuming competitive compensation is important",
+          "Assuming modern tech stack and practices",
+          "Assuming collaborative team environment"
+        ]
+      },
+      "market_research": {
+        "roles_analyzed": [
+          "Software Engineer"
+        ],
+        "market_data": {
+          "Software Engineer": {
+            "salary_ranges": {
+              "entry": "$70k-100k",
+              "mid": "$100k-150k",
+              "senior": "$150k-220k"
+            },
+            "key_skills": [
+              "Python/JavaScript",
+              "System Design",
+              "Problem Solving",
+              "Git"
+            ],
+            "market_demand": "Very High",
+            "competition_level": "High",
+            "hiring_tips": [
+              "Emphasize growth opportunities",
+              "Competitive tech stack",
+              "Strong engineering culture"
+            ]
+          }
+        },
+        "summary": "Market analysis shows strong demand for Software Engineer roles with competitive salaries and benefits needed to attract top talent."
+      },
+      "job_descriptions": {
+        "job_descriptions": {
+          "Software Engineer": {
+            "title": "Software Engineer - Join Our Growing Team",
+            "summary": "We're looking for a talented software engineer to help build innovative solutions and grow with our team.",
+            "responsibilities": [
+              "Develop and maintain software engineer solutions",
+              "Collaborate with cross-functional teams",
+              "Write clean, efficient, and maintainable code",
+              "Participate in code reviews and technical discussions",
+              "Contribute to product strategy and technical decisions"
+            ],
+            "required_qualifications": [
+              "Senior Level experience in software engineer role",
+              "Strong problem-solving and analytical skills",
+              "Excellent communication and teamwork abilities",
+              "Experience with modern development practices",
+              "Bachelor's degree or equivalent experience"
+            ],
+            "preferred_qualifications": [
+              "Startup or fast-paced environment experience",
+              "Leadership or mentoring experience",
+              "Open source contributions",
+              "Advanced degree in relevant field"
+            ],
+            "what_we_offer": [
+              "Competitive salary and equity package",
+              "Flexible work arrangements",
+              "Professional development opportunities",
+              "Health and wellness benefits",
+              "Collaborative and innovative culture"
+            ],
+            "application_process": "Send your resume and cover letter. We'll review applications on a rolling basis and reach out to qualified candidates."
+          }
+        },
+        "posting_tips": "Post on multiple platforms, emphasize growth opportunities, highlight company mission and impact."
+      },
+      "interview_process": {
+        "interview_processes": {
+          "Software Engineer": {
+            "stages": [
+              {
+                "name": "Initial Screen",
+                "duration": "30 minutes",
+                "format": "Phone/Video",
+                "focus": "Basic qualifications and interest"
+              },
+              {
+                "name": "Technical Interview",
+                "duration": "60 minutes",
+                "format": "Video with coding",
+                "focus": "Technical skills and problem-solving"
+              },
+              {
+                "name": "Team Interview",
+                "duration": "45 minutes",
+                "format": "Video with team",
+                "focus": "Collaboration and culture fit"
+              },
+              {
+                "name": "Final Interview",
+                "duration": "30 minutes",
+                "format": "Video with leadership",
+                "focus": "Vision alignment and questions"
+              }
+            ],
+            "timeline": "2-3 weeks from application to decision",
+            "evaluation_criteria": [
+              "Technical competency",
+              "Cultural fit",
+              "Communication skills",
+              "Growth potential",
+              "Problem-solving approach"
+            ],
+            "sample_questions": {
+              "technical": [
+                "Walk us through your approach to a software engineer challenge",
+                "How would you handle scalability issues?",
+                "Describe a complex project you worked on"
+              ],
+              "behavioral": [
+                "Tell us about a time you had to learn something quickly",
+                "How do you handle feedback?",
+                "Describe your ideal work environment"
+              ],
+              "cultural": [
+                "What motivates you in your work?",
+                "How do you approach collaboration?",
+                "What are your career goals?"
+              ]
+            },
+            "decision_process": "Collaborative decision with input from all interviewers and hiring manager",
+            "logistics": "All interviews will be scheduled through our HR team with clear communication about expectations"
+          }
+        },
+        "general_guidelines": "Ensure consistent evaluation criteria, provide good candidate experience, minimize bias in decision making."
+      },
+      "compensation_packages": {
+        "compensation_packages": {
+          "Software Engineer": {
+            "base_salary": {
+              "range": "$150k-220k",
+              "justification": "Market competitive for Senior Level Software Engineer"
+            },
+            "equity_percentage": {
+              "range": "0.02%-0.2%",
+              "vesting": "4 years with 1-year cliff",
+              "justification": "Startup equity to align with company growth"
+            },
+            "benefits": [
+              "Health insurance (medical, dental, vision)",
+              "401(k) retirement plan with company matching",
+              "Paid time off and holidays",
+              "Professional development budget ($2,000/year)",
+              "Flexible work arrangements"
+            ],
+            "bonuses": {
+              "performance_bonus": "Up to 15% of base salary annually",
+              "signing_bonus": "Negotiable based on candidate situation",
+              "referral_bonus": "$2,000 for successful referrals"
+            },
+            "perks": [
+              "Flexible working hours",
+              "Remote work options",
+              "Modern equipment and tools",
+              "Team building activities and events",
+              "Learning and conference budget"
+            ],
+            "total_value_estimate": "Total compensation package worth $150k-220k plus equity upside"
+          }
+        },
+        "budget_analysis": {
+          "total_annual_cost": "$120k - $180k estimated total",
+          "budget_recommendations": [
+            "Consider equity to offset base salary",
+            "Flexible benefits package",
+            "Performance bonuses"
+          ],
+          "cost_optimization": [
+            "Negotiate based on candidate priorities",
+            "Offer growth opportunities",
+            "Competitive equity packages"
+          ]
+        },
+        "negotiation_guidelines": "Be transparent about compensation philosophy, understand candidate priorities, have flexibility in package structure."
+      },
+      "hiring_checklist": {
+        "role_checklists": {
+          "Software Engineer": {
+            "pre_posting": {
+              "tasks": [
+                {
+                  "task": "Finalize Software Engineer job description",
+                  "deadline": "Day 1",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Set up interview panel and process",
+                  "deadline": "Day 2",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Prepare technical assessment materials",
+                  "deadline": "Day 3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "job_posting": {
+              "tasks": [
+                {
+                  "task": "Post on primary job boards (LinkedIn, Indeed)",
+                  "deadline": "Day 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Share on company social media",
+                  "deadline": "Day 4",
+                  "responsible": "Marketing"
+                },
+                {
+                  "task": "Reach out to professional networks",
+                  "deadline": "Day 5",
+                  "responsible": "Team"
+                }
+              ]
+            },
+            "screening": {
+              "tasks": [
+                {
+                  "task": "Review and screen applications",
+                  "deadline": "Ongoing",
+                  "responsible": "HR + Hiring Manager"
+                },
+                {
+                  "task": "Conduct initial phone screens",
+                  "deadline": "Week 2",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Technical assessments",
+                  "deadline": "Week 2-3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "interviews": {
+              "tasks": [
+                {
+                  "task": "Schedule interview rounds",
+                  "deadline": "Week 3",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct team interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "Interview Panel"
+                },
+                {
+                  "task": "Collect and compile feedback",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "decision_offer": {
+              "tasks": [
+                {
+                  "task": "Make final hiring decision",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare and approve offer letter",
+                  "deadline": "Week 4",
+                  "responsible": "HR + Leadership"
+                },
+                {
+                  "task": "Extend offer to candidate",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            },
+            "onboarding": {
+              "tasks": [
+                {
+                  "task": "Prepare onboarding materials and schedule",
+                  "deadline": "Before start date",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up workspace and equipment",
+                  "deadline": "Before start date",
+                  "responsible": "IT"
+                },
+                {
+                  "task": "Schedule first week meetings and introductions",
+                  "deadline": "Before start date",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            }
+          }
+        },
+        "master_checklist": {
+          "setup_phase": [
+            "Define hiring goals",
+            "Set budget",
+            "Prepare job descriptions",
+            "Set up interview process"
+          ],
+          "execution_phase": [
+            "Post jobs",
+            "Screen candidates",
+            "Conduct interviews",
+            "Make decisions"
+          ],
+          "coordination_tasks": [
+            "Weekly team meetings",
+            "Candidate tracking",
+            "Feedback collection"
+          ],
+          "milestones": [
+            "Week 1: Jobs posted",
+            "Week 2: Initial interviews",
+            "Week 4: Final decisions",
+            "Week 6: Onboarding"
+          ]
+        },
+        "timeline_overview": "Expected timeline: asap hiring process with 1 role(s) to fill. Estimated 4-6 weeks from job posting to hire."
+      }
+    },
+    "updated_at": "2025-08-10T22:33:59.046784"
+  },
+  "d43261de-453a-4f23-8ed8-5370db25f99f": {
+    "id": "d43261de-453a-4f23-8ed8-5370db25f99f",
+    "created_at": "2025-08-10T22:38:25.975126",
+    "status": "active",
+    "messages": [],
+    "hiring_plan": {
+      "session_id": "d43261de-453a-4f23-8ed8-5370db25f99f",
+      "user_request": "Roles needed: Full Stack Developer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks)",
+      "company_context": "Company stage: Pre-seed. Team size: 1-5 people. Budget range: <$50k. Work arrangement: Remote",
+      "status": "completed",
+      "agents_used": [
+        "clarification",
+        "market_research",
+        "job_description",
+        "interview_process",
+        "compensation",
+        "checklist"
+      ],
+      "created_at": "2025-08-10T22:38:42.656460",
+      "clarifications": {
+        "extracted_info": {
+          "roles": [
+            "Software Engineer"
+          ],
+          "skills": [
+            "Problem solving",
+            "Communication",
+            "Teamwork"
+          ],
+          "timeline": "ASAP",
+          "budget": "Competitive",
+          "company_stage": "Seed stage",
+          "team_size": "Growing team",
+          "work_mode": "Flexible"
+        },
+        "clarifying_questions": [
+          "What is your specific budget range for these positions?",
+          "What are the most important technical skills for your team?",
+          "Do you prefer remote, hybrid, or onsite work arrangements?",
+          "What is your ideal timeline for completing these hires?",
+          "Are there any specific company culture aspects candidates should know?"
+        ],
+        "assumptions": [
+          "Assuming startup environment with growth opportunities",
+          "Assuming competitive compensation is important",
+          "Assuming modern tech stack and practices",
+          "Assuming collaborative team environment"
+        ]
+      },
+      "market_research": {
+        "roles_analyzed": [
+          "Software Engineer"
+        ],
+        "market_data": {
+          "Software Engineer": {
+            "salary_ranges": {
+              "entry": "$70k-100k",
+              "mid": "$100k-150k",
+              "senior": "$150k-220k"
+            },
+            "key_skills": [
+              "Python/JavaScript",
+              "System Design",
+              "Problem Solving",
+              "Git"
+            ],
+            "market_demand": "Very High",
+            "competition_level": "High",
+            "hiring_tips": [
+              "Emphasize growth opportunities",
+              "Competitive tech stack",
+              "Strong engineering culture"
+            ]
+          }
+        },
+        "summary": "Market analysis shows strong demand for Software Engineer roles with competitive salaries and benefits needed to attract top talent."
+      },
+      "job_descriptions": {
+        "job_descriptions": {
+          "Software Engineer": {
+            "title": "Software Engineer - Join Our Growing Team",
+            "summary": "We're looking for a talented software engineer to help build innovative solutions and grow with our team.",
+            "responsibilities": [
+              "Develop and maintain software engineer solutions",
+              "Collaborate with cross-functional teams",
+              "Write clean, efficient, and maintainable code",
+              "Participate in code reviews and technical discussions",
+              "Contribute to product strategy and technical decisions"
+            ],
+            "required_qualifications": [
+              "Entry Level experience in software engineer role",
+              "Strong problem-solving and analytical skills",
+              "Excellent communication and teamwork abilities",
+              "Experience with modern development practices",
+              "Bachelor's degree or equivalent experience"
+            ],
+            "preferred_qualifications": [
+              "Startup or fast-paced environment experience",
+              "Leadership or mentoring experience",
+              "Open source contributions",
+              "Advanced degree in relevant field"
+            ],
+            "what_we_offer": [
+              "Competitive salary and equity package",
+              "Flexible work arrangements",
+              "Professional development opportunities",
+              "Health and wellness benefits",
+              "Collaborative and innovative culture"
+            ],
+            "application_process": "Send your resume and cover letter. We'll review applications on a rolling basis and reach out to qualified candidates."
+          }
+        },
+        "posting_tips": "Post on multiple platforms, emphasize growth opportunities, highlight company mission and impact."
+      },
+      "interview_process": {
+        "interview_processes": {
+          "Software Engineer": {
+            "stages": [
+              {
+                "name": "Initial Screen",
+                "duration": "30 minutes",
+                "format": "Phone/Video",
+                "focus": "Basic qualifications and interest"
+              },
+              {
+                "name": "Technical Interview",
+                "duration": "60 minutes",
+                "format": "Video with coding",
+                "focus": "Technical skills and problem-solving"
+              },
+              {
+                "name": "Team Interview",
+                "duration": "45 minutes",
+                "format": "Video with team",
+                "focus": "Collaboration and culture fit"
+              },
+              {
+                "name": "Final Interview",
+                "duration": "30 minutes",
+                "format": "Video with leadership",
+                "focus": "Vision alignment and questions"
+              }
+            ],
+            "timeline": "2-3 weeks from application to decision",
+            "evaluation_criteria": [
+              "Technical competency",
+              "Cultural fit",
+              "Communication skills",
+              "Growth potential",
+              "Problem-solving approach"
+            ],
+            "sample_questions": {
+              "technical": [
+                "Walk us through your approach to a software engineer challenge",
+                "How would you handle scalability issues?",
+                "Describe a complex project you worked on"
+              ],
+              "behavioral": [
+                "Tell us about a time you had to learn something quickly",
+                "How do you handle feedback?",
+                "Describe your ideal work environment"
+              ],
+              "cultural": [
+                "What motivates you in your work?",
+                "How do you approach collaboration?",
+                "What are your career goals?"
+              ]
+            },
+            "decision_process": "Collaborative decision with input from all interviewers and hiring manager",
+            "logistics": "All interviews will be scheduled through our HR team with clear communication about expectations"
+          }
+        },
+        "general_guidelines": "Ensure consistent evaluation criteria, provide good candidate experience, minimize bias in decision making."
+      },
+      "compensation_packages": {
+        "compensation_packages": {
+          "Software Engineer": {
+            "base_salary": {
+              "range": "$70k-100k",
+              "justification": "Market competitive for Entry Level Software Engineer"
+            },
+            "equity_percentage": {
+              "range": "0.1%-0.5%",
+              "vesting": "4 years with 1-year cliff",
+              "justification": "Startup equity to align with company growth"
+            },
+            "benefits": [
+              "Health insurance (medical, dental, vision)",
+              "401(k) retirement plan with company matching",
+              "Paid time off and holidays",
+              "Professional development budget ($2,000/year)",
+              "Flexible work arrangements"
+            ],
+            "bonuses": {
+              "performance_bonus": "Up to 15% of base salary annually",
+              "signing_bonus": "Negotiable based on candidate situation",
+              "referral_bonus": "$2,000 for successful referrals"
+            },
+            "perks": [
+              "Flexible working hours",
+              "Remote work options",
+              "Modern equipment and tools",
+              "Team building activities and events",
+              "Learning and conference budget"
+            ],
+            "total_value_estimate": "Total compensation package worth $70k-100k plus equity upside"
+          }
+        },
+        "budget_analysis": {
+          "total_annual_cost": "$120k - $180k estimated total",
+          "budget_recommendations": [
+            "Consider equity to offset base salary",
+            "Flexible benefits package",
+            "Performance bonuses"
+          ],
+          "cost_optimization": [
+            "Negotiate based on candidate priorities",
+            "Offer growth opportunities",
+            "Competitive equity packages"
+          ]
+        },
+        "negotiation_guidelines": "Be transparent about compensation philosophy, understand candidate priorities, have flexibility in package structure."
+      },
+      "hiring_checklist": {
+        "role_checklists": {
+          "Software Engineer": {
+            "pre_posting": {
+              "tasks": [
+                {
+                  "task": "Finalize Software Engineer job description",
+                  "deadline": "Day 1",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Set up interview panel and process",
+                  "deadline": "Day 2",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Prepare technical assessment materials",
+                  "deadline": "Day 3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "job_posting": {
+              "tasks": [
+                {
+                  "task": "Post on primary job boards (LinkedIn, Indeed)",
+                  "deadline": "Day 4",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Share on company social media",
+                  "deadline": "Day 4",
+                  "responsible": "Marketing"
+                },
+                {
+                  "task": "Reach out to professional networks",
+                  "deadline": "Day 5",
+                  "responsible": "Team"
+                }
+              ]
+            },
+            "screening": {
+              "tasks": [
+                {
+                  "task": "Review and screen applications",
+                  "deadline": "Ongoing",
+                  "responsible": "HR + Hiring Manager"
+                },
+                {
+                  "task": "Conduct initial phone screens",
+                  "deadline": "Week 2",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Technical assessments",
+                  "deadline": "Week 2-3",
+                  "responsible": "Technical Team"
+                }
+              ]
+            },
+            "interviews": {
+              "tasks": [
+                {
+                  "task": "Schedule interview rounds",
+                  "deadline": "Week 3",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Conduct team interviews",
+                  "deadline": "Week 3-4",
+                  "responsible": "Interview Panel"
+                },
+                {
+                  "task": "Collect and compile feedback",
+                  "deadline": "Week 4",
+                  "responsible": "HR"
+                }
+              ]
+            },
+            "decision_offer": {
+              "tasks": [
+                {
+                  "task": "Make final hiring decision",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                },
+                {
+                  "task": "Prepare and approve offer letter",
+                  "deadline": "Week 4",
+                  "responsible": "HR + Leadership"
+                },
+                {
+                  "task": "Extend offer to candidate",
+                  "deadline": "Week 4",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            },
+            "onboarding": {
+              "tasks": [
+                {
+                  "task": "Prepare onboarding materials and schedule",
+                  "deadline": "Before start date",
+                  "responsible": "HR"
+                },
+                {
+                  "task": "Set up workspace and equipment",
+                  "deadline": "Before start date",
+                  "responsible": "IT"
+                },
+                {
+                  "task": "Schedule first week meetings and introductions",
+                  "deadline": "Before start date",
+                  "responsible": "Hiring Manager"
+                }
+              ]
+            }
+          }
+        },
+        "master_checklist": {
+          "setup_phase": [
+            "Define hiring goals",
+            "Set budget",
+            "Prepare job descriptions",
+            "Set up interview process"
+          ],
+          "execution_phase": [
+            "Post jobs",
+            "Screen candidates",
+            "Conduct interviews",
+            "Make decisions"
+          ],
+          "coordination_tasks": [
+            "Weekly team meetings",
+            "Candidate tracking",
+            "Feedback collection"
+          ],
+          "milestones": [
+            "Week 1: Jobs posted",
+            "Week 2: Initial interviews",
+            "Week 4: Final decisions",
+            "Week 6: Onboarding"
+          ]
+        },
+        "timeline_overview": "Expected timeline: asap hiring process with 1 role(s) to fill. Estimated 4-6 weeks from job posting to hire."
+      }
+    },
+    "updated_at": "2025-08-10T22:38:42.674120"
+  },
+  "452cbf02-c4f7-4142-b7f1-b0324700da94": {
+    "id": "452cbf02-c4f7-4142-b7f1-b0324700da94",
+    "created_at": "2025-08-10T22:48:26.646788",
+    "status": "active",
+    "messages": [],
+    "hiring_plan": null
+  }
+}

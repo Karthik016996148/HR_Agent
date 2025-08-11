@@ -1,0 +1,99 @@
+{
+  "sessions": [
+    {
+      "session_id": "5ebb2a8f-8172-49a4-acf8-9275b15ee192",
+      "timestamp": "2025-08-10T20:43:04.911633",
+      "event_type": "session_created"
+    },
+    {
+      "session_id": "17ec924b-ea02-4be4-b082-b32b638bc8b0",
+      "timestamp": "2025-08-10T20:48:18.148164",
+      "event_type": "session_created"
+    },
+    {
+      "session_id": "d8d78bfb-188b-471b-b5a5-b79104f6905a",
+      "timestamp": "2025-08-10T20:54:26.384141",
+      "event_type": "session_created"
+    },
+    {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "timestamp": "2025-08-10T22:32:08.650959",
+      "event_type": "session_created"
+    },
+    {
+      "session_id": "d43261de-453a-4f23-8ed8-5370db25f99f",
+      "timestamp": "2025-08-10T22:38:26.000235",
+      "event_type": "session_created"
+    },
+    {
+      "session_id": "452cbf02-c4f7-4142-b7f1-b0324700da94",
+      "timestamp": "2025-08-10T22:48:26.670790",
+      "event_type": "session_created"
+    }
+  ],
+  "plan_generations": [
+    {
+      "session_id": "5ebb2a8f-8172-49a4-acf8-9275b15ee192",
+      "timestamp": "2025-08-10T20:44:39.135896",
+      "event_type": "plan_generation_started",
+      "user_input": "ob Descriptions\nFounding Engineer\nAbout the Role:\nWe\u2019re seeking a Founding Engineer to take ownership of our core product architecture, scaling it from MVP to production. You\u2019ll work directly with the"
+    },
+    {
+      "session_id": "17ec924b-ea02-4be4-b082-b32b638bc8b0",
+      "timestamp": "2025-08-10T20:49:13.717507",
+      "event_type": "plan_generation_started",
+      "user_input": "Roles needed: Software Engineer. Experience level: Mid Level (2-5 years). Timeline: ASAP (within 2 weeks). Key skills required: Python, SQL. Additional details: I need a person who can work very hard"
+    },
+    {
+      "session_id": "5ebb2a8f-8172-49a4-acf8-9275b15ee192",
+      "timestamp": "2025-08-10T20:49:18.726662",
+      "event_type": "plan_generation_completed"
+    },
+    {
+      "session_id": "d8d78bfb-188b-471b-b5a5-b79104f6905a",
+      "timestamp": "2025-08-10T20:55:13.555082",
+      "event_type": "plan_generation_started",
+      "user_input": "Roles needed: Frontend Developer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks). Key skills required: Java Script. Additional details: I need a person who can mentor me an"
+    },
+    {
+      "session_id": "d8d78bfb-188b-471b-b5a5-b79104f6905a",
+      "timestamp": "2025-08-10T21:02:15.804811",
+      "event_type": "plan_generation_completed"
+    },
+    {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "timestamp": "2025-08-10T22:32:21.414687",
+      "event_type": "plan_generation_started",
+      "user_input": "Roles needed: Senior Software Engineer, Lead Engineer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks)"
+    },
+    {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "timestamp": "2025-08-10T22:32:21.422107",
+      "event_type": "plan_generation_completed"
+    },
+    {
+      "session_id": "d43261de-453a-4f23-8ed8-5370db25f99f",
+      "timestamp": "2025-08-10T22:38:42.649784",
+      "event_type": "plan_generation_started",
+      "user_input": "Roles needed: Full Stack Developer. Experience level: Entry Level (0-2 years). Timeline: ASAP (within 2 weeks)"
+    },
+    {
+      "session_id": "d43261de-453a-4f23-8ed8-5370db25f99f",
+      "timestamp": "2025-08-10T22:38:42.684645",
+      "event_type": "plan_generation_completed"
+    }
+  ],
+  "chat_interactions": [
+    {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "timestamp": "2025-08-10T22:33:47.283868",
+      "event_type": "chat_message"
+    },
+    {
+      "session_id": "03fd81fd-ca75-4889-9e68-bad4bf352f1d",
+      "timestamp": "2025-08-10T22:33:59.055690",
+      "event_type": "chat_message"
+    }
+  ],
+  "errors": []
+}
